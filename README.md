@@ -1,4 +1,4 @@
-# eugeweb.dev
+# eugweb.dev
 
 ## About
 
